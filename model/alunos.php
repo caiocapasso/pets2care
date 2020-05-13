@@ -1,9 +1,11 @@
 <?php 
-class Clientes {
+class Alunos {
     private $dados = array(
-        1 => 'andre',
-        2 => 'bandre',
-        3 => 'candre'
+        1 => 'aluno andré',
+        2 => 'aluno bandré',
+        3 => 'aluno candré',        
+        4 => 'aluno dandré',        
+        5 => 'aluno endré'
     );
 
     public function todos(){

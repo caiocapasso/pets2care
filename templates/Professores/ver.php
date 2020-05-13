@@ -1,4 +1,4 @@
-<h1>Dados do Cliente</h1>
+<h1>Dados do Professor: </h1>
 <pre>
 <?php 
 echo $data['registro']

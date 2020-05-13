@@ -1,4 +1,4 @@
-<h1>Todos os Clientes</h1>
+<h1>Todos os Professores</h1>
 <pre>
 <?php 
 print_r($data)
